@@ -1,0 +1,68 @@
+.custom{
+  margin: 0px;
+}
+
+.custom li{
+  padding: 8px 12px;
+  list-style: none;
+  cursor: pointer;
+}
+
+.custom li a{
+  text-decoration: none;
+  text-decoration: none;
+  color: white;
+}
+
+.icons{
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.cart{
+  padding: 10px;
+  position: relative;
+}
+
+.position{
+  position: absolute;
+  right: 2px;
+  top: -5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.cards-design{
+  box-shadow: 0px 0px 5px black;
+  padding: 10px;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+
+.cards-design-1{
+  box-shadow: 0px 0px 5px black;
+  width: 70%;
+  margin: auto;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+
+.cards-design:hover{
+  box-shadow: 0px 0px 5px black;
+  padding: 10px;
+  border-radius: 5px;
+  transform: scale(1.05);
+}
+.height-image{
+  height: 16rem !important;
+  width: 100% !important;
+}
+
+.css-1poimk-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper{
+  left: 900px !important;
+  right: 130px !important;
+}
+
+.delete{
+  cursor: pointer;
+}
