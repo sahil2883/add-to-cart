@@ -5,6 +5,12 @@ import {Routes,Route} from 'react-router-dom';
 import Card from './components/Card';
 import CardDetail from './components/CardDetail';
 
+
+const a = "sahil"
+a = "kumar"
+
+console.log(a)
+
 function App() {
   return (
     <>
